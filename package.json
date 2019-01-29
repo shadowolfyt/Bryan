@@ -1,0 +1,24 @@
+{
+  "name": "alexa-app",
+  "version": "1.0.0",
+  "description": "An Alexa application using JavaScript.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadowolfyt/alexa-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shadowolfyt/alexa-app/issues"
+  },
+  "homepage": "https://github.com/shadowolfyt/alexa-app#readme",
+  "dependencies": {
+    "alexa-verifier": "^2.0.1",
+    "express": "^4.16.4"
+  }
+}
